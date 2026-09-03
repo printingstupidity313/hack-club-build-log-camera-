@@ -1,0 +1,2 @@
+# hack-club-build-log-camera-
+a time lapse camera for hack club to prove you were spending time working on your projects has emergency shutoff for those embarrassing moments and uses rfid verication  
